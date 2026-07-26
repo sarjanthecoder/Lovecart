@@ -461,3 +461,5 @@ open lovecart_category_site.html
 ✅ Responsive - Works on all devices
 ✅ Easy Customization - Simple to modify
 ✅ Love Theme - Romantic throughout
+
+end 
